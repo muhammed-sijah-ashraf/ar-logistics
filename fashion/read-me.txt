@@ -1,0 +1,13 @@
+Font Family
+Font Size - H2 :50Px
+		H3 :46Px
+		H4 :32Px
+		H5:15PX
+		
+
+
+link: https://fonts.google.com/specimen/Poppins
+
+Colours :
+ light-yellow:E9DBB3 
+ Red: E41D1D
